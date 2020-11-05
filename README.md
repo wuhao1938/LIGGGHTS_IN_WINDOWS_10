@@ -9,7 +9,7 @@ The files are ruining in Windows 10 for latest version of LIGGGHTS as DEM solver
 
 If my work helps you, please cite my following paper in your work:  
 [1].Wu, H., Gui, N., Yang, X., Tu, J., & Jiang, S. (2017). Numerical simulation of heat transfer in packed pebble beds: CFD-DEM coupled with particle thermal radiation. International Journal of Heat and Mass Transfer, 110, 393-405.  
-[2].Wu, H., Gui, N., Yang, X., Tu, J., & Jiang, S. (2020). Analysis and evaluations of four models of thermal radiation for densely packed granular systems. Chemical Engineering Science, 211, 115309. 
+[2].Wu, H., Gui, N., Yang, X., Tu, J., & Jiang, S. (2020). Analysis and evaluations of four models of thermal radiation for densely packed granular systems. Chemical Engineering Science, 211, 115309.  
 [3].Wu, H., Gui, N., Yang, X., Tu, J., & Jiang, S. (2020). Full mechanism modeling of contact thermal resistance with stagnant fluids in thermal discrete element method. International Communications in Heat and Mass Transfer, 119, 104829.
 
 
