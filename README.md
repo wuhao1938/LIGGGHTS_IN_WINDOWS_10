@@ -1,5 +1,5 @@
 # LIGGGHTS_IN_WINDOWS_10  
-Latest version of LIGGGHTS  in Windows 10   
+Latest version of LIGGGHTS  in Windows 10. For Windows 11, see https://github.com/wuhao1938/LIGGGHTS_IN_WINDOWS_11
 
 The files are ruining in Windows 10 for latest version of LIGGGHTS as DEM solver. The features are:  
 (1).Including all functions of LIGGGHTS in serial mode for DEM simulation.   
