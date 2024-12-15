@@ -1,1 +1,29 @@
+I tested your compiled version for Win10 that I found here:
+https://github.com/wuhao1938/LIGGGHTS_IN_WINDOWS_10
+
+Your included example works but the example code found here does not work:
+https://www.cfdem.com/media/DEM/docu/Section_input_script.html
+
+
+I use Win 10 Pro Version 10.0.19045.
+
+I got error messages.
+
+For the liggghts.exe in the main directory:
+
+liggghts.exe -in test.txt
+LIGGGHTS (Version LIGGGHTS-PUBLIC 3.8.0, compiled 2020-01-30 by Hao Wu (wuhao@mail.tsinghua.edu.cn))
+Created orthogonal box = (-0.05 -0.05 0) to (0.05 0.05 0.15)
+  1 by 1 by 1 MPI processor grid
+ERROR: Fix particletemplate/sphere (id pts1): unrecognized keyword (.\src/fix_template_sphere.cpp:230)
+╨ûD╠3☻ (.\src/fix_template_sphere.cpp:230)
+
+
+For the liggghts.exe after extracting release-3.8.1.zip:
+liggghts.exe -in test.txt
+LIGGGHTS (Version LIGGGHTS-PUBLIC 3.8.0, compiled 2023-07-11-17:26:41 by wuhao1938@hotmail.com, git commit bbd23c8521fe0a4f3f5bfd0d3dc9a7dddd68d90b)
+Created orthogonal box = (-0.05 -0.05 0) to (0.05 0.05 0.15)
+  1 by 1 by 1 MPI processor grid
+ERROR: Fix particletemplate/sphere (id pts1): unrecognized keyword (.\src/fix_template_sphere.cpp:230)
+
 
